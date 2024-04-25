@@ -1,0 +1,31 @@
+{
+"nama": "Tri Puji Astutik",
+"age":17,
+"hoby": [
+    "Menari",
+    "Menyanyi",
+    "Membaca buku"
+],
+"github": {
+    "username": "tripujiaa",
+    "repositories": 2897,
+    "isGDE": true
+},
+"articles": [
+    {
+        "id": 1,
+        "title": "God of war",
+        "subtitle": "that is movie"
+    },
+    {
+        "id": 2,
+        "title": "Harvest moon",
+        "subtitle": "that is game"
+    },
+    {
+        "id": 3,
+        "title": "Avanger",
+        "subtitle": "that is hero"
+    }
+]
+}
